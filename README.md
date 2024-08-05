@@ -16,7 +16,7 @@ The YouTube to MP is a user-friendly tool that allows you to convert your favori
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/youtube-to-mp3-converter.git
+   git clone https://github.com/TerseSmile10428/YoutubeToMP.git
 
 2. **Navigate to the Project Directory**
 
