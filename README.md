@@ -26,7 +26,6 @@ The YouTube to MP is a user-friendly tool that allows you to convert your favori
    pip install -r requirements.txt
 
 
-
 ## Usage:
 1. **Run the Application**
    
