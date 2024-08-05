@@ -54,3 +54,9 @@ Start the conversion process.
 
 ## License
 **This project is licensed under the MIT License. See the [LICENSE](https://github.com/TerseSmile10428/YoutubeToMP?tab=MIT-1-ov-file) file for details.**
+
+
+
+## Contact Information
+
+For bug reports and issues, please open an issue on GitHub. If you need assistance with video making or have related queries, you can reach me via Gmail at [tersesmile10428@gmail.com](mailto:tersesmile10428@gmail.com)
